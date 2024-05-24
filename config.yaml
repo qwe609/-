@@ -1,0 +1,10 @@
+data_root: '/Dog vs Cat'
+train_path: './train'
+test_path: './test'
+csv_path: './submission.csv'
+tensorboard_path: './tensorboard_info'
+model_save_path: './dogs-vs-cats.pth'
+
+batch_size: 75
+epochs: 10
+lr: 0.001
